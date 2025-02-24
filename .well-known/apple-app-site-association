@@ -5,6 +5,10 @@
             {
                 "appID": "69FLZ3N89E.com.lraveli.PushNotification",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "69FLZ3N89E.com.lraveli.DeepLink",
+                "paths": [ "*" ]
             }
         ]
     }
