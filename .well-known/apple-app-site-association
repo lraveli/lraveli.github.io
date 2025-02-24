@@ -3,16 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appIDs": [ "69FLZ3N89E.com.lraveli.PushNotification" ],
-                "components": [
-                    {
-                        "/": "*",
-                        "comment": "Matches any URL"
-                    }
-                ]
-            },
-            {
-                "appID": "69FLZ3N89E.com.lraveli.PushNotification",
+                "appID": [ "69FLZ3N89E.com.lraveli.PushNotification" ],
                 "paths": [ "*" ]
             }
         ]
