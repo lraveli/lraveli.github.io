@@ -4,11 +4,21 @@
         "details": [
             {
                 "appID": "69FLZ3N89E.com.lraveli.PushNotification",
-                "paths": [ "*" ]
+                "components": [
+                    {
+                        "/": "/pn/*",
+                        "comment": "Matches any deep link under PN path"
+                    }
+                ] 
             },
             {
                 "appID": "69FLZ3N89E.com.lraveli.DeepLink",
-                "paths": [ "*" ]
+                "components": [
+                    {
+                        "/": "/dl/*",
+                        "comment": "Matches any deep link under DL path"
+                    }
+                ] 
             }
         ]
     }
