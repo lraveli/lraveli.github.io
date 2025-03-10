@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lraveli.deeplink",
+      "sha256_cert_fingerprints":
+      ["3D:EC:FF:1E:81:27:AA:BE:D1:01:27:EA:A3:4B:A7:95:53:D3:3E:86:F3:60:08:F0:E7:AC:EF:F0:3E:29:FB:3F"]
+    }
+  }]
