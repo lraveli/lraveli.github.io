@@ -6,17 +6,8 @@
                 "appID": "69FLZ3N89E.com.lraveli.PushNotification",
                 "components": [
                     {
-                        "/": "/pn/*",
+                        "/": "/points",
                         "comment": "Matches any deep link under PN path"
-                    }
-                ] 
-            },
-            {
-                "appID": "69FLZ3N89E.com.lraveli.DeepLink",
-                "components": [
-                    {
-                        "/": "/dl/*",
-                        "comment": "Matches any deep link under DL path"
                     }
                 ] 
             }
