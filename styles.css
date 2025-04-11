@@ -28,6 +28,7 @@ p {
 /* Center container */
 .container {
     max-width: 600px;
+    height: 100vh;
     margin: auto;
     text-align: center;
 }
